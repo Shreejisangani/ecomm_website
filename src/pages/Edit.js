@@ -42,7 +42,7 @@ const Edit = () => {
                     <button className='btn-register'>Save</button>
                     <Link to='/product'><button className='btn-cancel'>Cancel</button></Link>
                 </div>
-
+                
             </div >
             <Footer />
         </div>

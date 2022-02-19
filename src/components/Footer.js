@@ -4,7 +4,7 @@ const Footer = () => {
   return (
    <footer>
       <div className='footer'>
-        <span>© 2022 Tatvasoft.com. All rights reserved.</span>
+        <span>&copy; 2022 Tatvasoft.com. All rights reserved.</span>
     </div>
    </footer>
   )
