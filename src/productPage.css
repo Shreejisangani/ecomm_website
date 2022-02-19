@@ -1,0 +1,71 @@
+.products{
+    width: 70vw;
+    margin: 0 auto;
+
+}
+.products h1{
+    font-weight: bold;
+    font-size: 3rem;
+    color: #0b2e58;
+    text-align: center;
+    margin : 4rem auto 2rem auto;
+}
+.product-search{
+    display: flex;
+    justify-content: flex-end;
+}
+.product-search input{
+    font-size: 1rem;
+    width: 15vw;
+    padding: 0.4rem 1rem;
+    margin-right: 1rem;
+    outline: none;
+}
+.btn-apro{
+    background-color: #0b2e58;
+    color: white;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid #0b2e58;
+    border-radius: 4px;
+
+}
+.product-table{
+display: flex;
+justify-content: center;
+margin: 2rem auto;
+width: 100%;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    border-bottom: 1px solid #dddddd;
+    padding: 1rem 2rem;
+    text-align: start;
+}
+
+.td-btn{
+    text-align: end;
+    padding: 1rem 0;
+}
+
+.btn-ed{
+    background-color: #0b2e58;
+    width: 75px;
+    padding: 0.3rem 0.5rem;
+    border: 1px solid #0b2e58;
+    border-radius: 4px;
+    margin-right: 8px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer; 
+}
+.btn-editP{
+    background: #f19521;
+    border: 1px solid #f19521;
+}
+.ed-link{
+    color: white;
+    text-decoration: none;
+}
